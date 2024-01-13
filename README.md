@@ -104,7 +104,7 @@ Features:
 
 Target Variable:
 - Outcome: 0 (Non-diabetic) or 1 (Diabetic)
-- 
+
 ### Dataset Source
 The dataset was sourced from the following Kaggle link: Diabetic Prediction Dataset. It is worth noting that the dataset has been preprocessed and cleaned for the purpose of this project.
 
